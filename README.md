@@ -5,18 +5,17 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：565245397@qq.com   
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 手 机：13547922252 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：565245397@qq.com   
+* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：测试开发工程师
 
 ## 工作及教育经历
-
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+      
+* 四川师范大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2024.7&emsp;&emsp;&emsp;&emsp; 电子信息-研究生         
+* 曲阜师范大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp; 物联网与工程-本科  
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 熟练使用 Python，了解 Java、C 等编程语言
 * 掌握基础数据结构和算法的基本原理
 * 等等
 
